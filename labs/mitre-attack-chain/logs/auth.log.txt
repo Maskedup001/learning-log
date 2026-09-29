@@ -1,0 +1,4 @@
+2026-09-26T13:48:26.049738+00:00 wazuh-sever sshd[2978]: Failed password for root from 192.168.1.114 port 51412 ssh2
+2026-09-26T13:48:26.050756+00:00 wazuh-sever sshd[2979]: Failed password for root from 192.168.1.114 port 51414 ssh2
+2026-09-26T13:48:26.050973+00:00 wazuh-sever sshd[2980]: Failed password for root from 192.168.1.114 port 51416 ssh2
+2026-09-26T13:48:26.066350+00:00 wazuh-sever sshd[2981]: Failed password for root from 192.168.1.114 port 51418 ssh2

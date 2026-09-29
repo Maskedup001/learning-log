@@ -4,13 +4,14 @@
 
 ## Список лабораторий
 
-| # | Название | Тема | Статус |
-|---|----------|------|--------|
-| 1 | [MITRE ATT&CK Chain](mitre-attack-chain/) | SOC / SIEM | 🚧 В работе |
+| # | Название | Тема | Стек | Статус |
+|---|----------|------|------|--------|
+| 1 | [MITRE ATT&CK Chain](mitre-attack-chain/) | SOC / SIEM | Wazuh, auditd, MITRE ATT&CK | ✅ Завершено |
 
-## Стек
-- Wazuh SIEM
-- Nmap, Hydra, SSH
-- MITRE ATT&CK
-- Linux (Ubuntu Server + Desktop)
-- Wireshark
+## Стек (используется в лабораториях)
+- **SIEM:** Wazuh 4.9.2 (Manager + Indexer + Dashboard)
+- **Атака:** Nmap, Hydra, SSH
+- **Аудит:** auditd, journald, rsyslog
+- **Методология:** MITRE ATT&CK
+- **ОС:** Ubuntu Server 24.04, Ubuntu Desktop
+- **Сеть:** UFW, Wireshark

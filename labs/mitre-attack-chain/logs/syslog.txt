@@ -1,0 +1,5 @@
+2026-09-27T19:22:08 wazuh-sever crontab[22839]: (testuser) REPLACE (testuser)
+2026-09-27T19:22:16 wazuh-sever crontab[22892]: (testuser) LIST (testuser)
+2026-09-27T19:34:25 wazuh-sever crontab[30343]: (testuser) REPLACE (testuser)
+2026-09-27T19:34:33 wazuh-sever crontab[30389]: (testuser) LIST (testuser)
+2026-09-27T19:35:01 wazuh-sever cron[3849]: (testuser) RELOAD (crontabs/testuser)
